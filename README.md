@@ -1,2 +1,1 @@
-# vasp-support
-vasp-support
+# Vasp Support
